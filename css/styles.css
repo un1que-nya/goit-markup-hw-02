@@ -20,6 +20,10 @@ button {
     color: #2e2f42;
 }
 
+.footer-title-colored {
+    color: #f4f4fd;
+}
+
 .contact:hover {
     color:#404BBF;
 }
@@ -243,7 +247,7 @@ button {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: #4d5ae5;
 }
 
 .footer-text {
